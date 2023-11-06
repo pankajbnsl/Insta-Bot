@@ -1,0 +1,15 @@
+{
+  "name": "unfollow-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^117.0.3",
+    "selenium-webdriver": "^4.13.0"
+  }
+}
